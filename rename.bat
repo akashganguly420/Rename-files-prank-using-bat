@@ -1,0 +1,1 @@
+forfiles /S /M *.txt /C "cmd /c rename @file @fname.jph"
